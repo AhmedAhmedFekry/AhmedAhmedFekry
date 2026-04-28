@@ -67,8 +67,3 @@ Backend Developer with **6+ years of experience** specializing in scalable, high
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AhmedAhmedFekry&show_icons=true&theme=tokyonight&count_private=true)
-
----
