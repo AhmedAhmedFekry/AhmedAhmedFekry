@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Developer
 
-Backend Developer with **6+ years of experience** specializing in scalable, high-availability systems. Expert in Django, DRF, PostgreSQL, Redis, Docker, Celery, and RabbitMQ, with strong experience in Flask, FastAPI, Node.js, React, Nginx, and Kubernetes. Skilled in server infrastructure, background task processing, and passionate about building and optimizing **large-scale distributed systems** and resilient backend architectures.
+Backend Developer with **6+ years of experience** specializing in scalable, high-availability systems. Expert in Django, DRF, PostgreSQL, Redis, Docker, Celery, and RabbitMQ, with strong experience in Flask, FastAPI, Node.js (Express.js), React, Nginx, and Kubernetes. Skilled in cloud storage (AWS S3, DigitalOcean Spaces), server infrastructure, and background task processing. Passionate about building and optimizing **large-scale distributed systems**.
 
 ---
 
@@ -12,7 +12,6 @@ Backend Developer with **6+ years of experience** specializing in scalable, high
 ![System Design](https://img.shields.io/badge/System%20Design-Expert-blue)
 ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Advanced-blue)
 ![Microservices](https://img.shields.io/badge/Microservices-Advanced-blue)
-![Large Scale Systems](https://img.shields.io/badge/Large%20Scale%20Systems-Advanced-blue)
 
 ---
 
@@ -28,15 +27,20 @@ Backend Developer with **6+ years of experience** specializing in scalable, high
 ![DRF](https://img.shields.io/badge/Django%20REST-API-green)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Modern-green)
 ![Flask](https://img.shields.io/badge/Flask-Lightweight-green)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Express.js](https://img.shields.io/badge/Express.js-Framework-black)
 ![Celery](https://img.shields.io/badge/Celery-Background%20Tasks-green)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Message%20Broker-orange)
 
 ---
 
-### 🗄️ Databases & Caching
+### 🗄️ Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-green)
 ![Redis](https://img.shields.io/badge/Redis-Caching-red)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-Storage-orange)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Spaces-blue)
 
 ---
 
@@ -48,8 +52,7 @@ Backend Developer with **6+ years of experience** specializing in scalable, high
 
 ---
 
-### 🌐 Additional Technologies
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-Frontend-blue)
 
 ---
@@ -57,32 +60,17 @@ Backend Developer with **6+ years of experience** specializing in scalable, high
 ## ⚡ What I Do
 - Design scalable backend architectures
 - Build RESTful APIs & microservices
-- Apply SOLID principles & design patterns
-- Write clean, maintainable, production-ready code
-- Optimize databases using PostgreSQL and MySQL
-- Implement caching strategies with Redis
-- Build background task workflows using Celery and RabbitMQ
-- Work on large-scale distributed systems
+- Implement background jobs (Celery + RabbitMQ)
+- Optimize SQL & NoSQL databases
+- Work with cloud storage (AWS S3, DigitalOcean Spaces)
+- Build distributed systems at scale
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AhmedAhmedFekry&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=AhmedAhmedFekry&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAhmedFekry&layout=compact&theme=tokyonight)
 
 ---
-
-## 🔥 Current Focus
-- Advanced System Design
-- Distributed Systems at Scale
-- SaaS & Multi-Tenant Architecture
-- Background Jobs & Event-Driven Workflows
-
----
-
-## 📫 Contact
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/ahmedahmedfekry/
-- 📧 Email: ahmedahmedfekry11305654@gmail.com
