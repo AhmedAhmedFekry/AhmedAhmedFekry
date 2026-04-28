@@ -4,7 +4,7 @@
 
 Backend Developer with **6+ years of experience** building scalable, high-availability backend systems. Strong expertise in **Django, DRF, PostgreSQL, MySQL, MongoDB, Redis, Docker, Celery, RabbitMQ, FastAPI, Flask, Node.js, Express.js, Nginx, Kubernetes, AWS, DigitalOcean, and Linux servers**.
 
-I focus on designing clean backend architectures, optimizing performance, building distributed systems, and deploying reliable production applications.
+I focus on designing clean backend architectures, optimizing performance, building distributed systems, writing tested production code, and deploying reliable applications.
 
 ---
 
@@ -33,6 +33,14 @@ I focus on designing clean backend architectures, optimizing performance, buildi
 
 ---
 
+### 🌐 API & Communication
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-pink)
+![WebSocket](https://img.shields.io/badge/WebSocket-RealTime-orange)
+![Webhooks](https://img.shields.io/badge/Webhooks-Event%20Driven-blue)
+
+---
+
 ### 🗄️ Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-blue)
@@ -48,11 +56,22 @@ I focus on designing clean backend architectures, optimizing performance, buildi
 
 ---
 
+### ✅ Testing & Quality
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-Tested%20Code-success)
+![Pytest](https://img.shields.io/badge/Pytest-Python%20Testing-blue)
+![Django Test](https://img.shields.io/badge/Django%20Tests-Test%20Cases-green)
+![API Testing](https://img.shields.io/badge/API%20Testing-REST%20APIs-orange)
+
+---
+
 ### ☁️ DevOps, Cloud & Deployment
 ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-green)
 ![Linux](https://img.shields.io/badge/Linux-Servers-black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-blue)
+![Database Backup](https://img.shields.io/badge/Database%20Backup-Strategy-success)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-Object%20Storage-orange)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-Cloud-blue)
@@ -71,48 +90,28 @@ I focus on designing clean backend architectures, optimizing performance, buildi
 ## ⚡ What I Do
 
 - Design scalable backend architectures
-- Build REST APIs, microservices, and SaaS systems
+- Build REST APIs, GraphQL APIs, and real-time systems (WebSockets)
+- Implement webhook-based integrations
+- Build microservices and SaaS platforms
 - Apply SOLID principles and design patterns
+- Write clean, maintainable, production-ready code
+- Write unit tests and API tests
 - Optimize SQL & NoSQL databases
 - Implement caching using Redis
 - Build async workflows using Celery & RabbitMQ
 - Design distributed & event-driven systems
+- Build CI/CD pipelines using GitHub Actions
+- Automate deployments
+- Implement database backup and recovery strategies
 - Deploy apps on VPS and cloud platforms
 - Configure Linux, Nginx, SSL, domains, and DNS
 - Work with AWS S3 & DigitalOcean Spaces
 
 ---
 
-## 🔥 Contribution Activity
-
-> I actively contribute to personal repositories, private projects, and organization-based codebases.  
-> Public widgets may not fully reflect all private and organization contributions.
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAhmedFekry/AhmedAhmedFekry/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAhmedFekry/AhmedAhmedFekry/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AhmedAhmedFekry/AhmedAhmedFekry/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 🔥 Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedAhmedFekry&theme=tokyonight&hide_border=true)
-
----
-
-### 📈 Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedAhmedFekry&theme=tokyo-night&hide_border=true)
-
----
-
-### 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAhmedFekry&layout=compact&theme=tokyonight)
 
 ---
 
@@ -123,6 +122,9 @@ I focus on designing clean backend architectures, optimizing performance, buildi
 - SaaS & Multi-Tenant Architecture
 - Event-Driven Systems
 - Backend Performance Optimization
+- Unit Testing & API Testing
+- CI/CD & Deployment Automation
+- Database Backup & Recovery
 - Cloud Infrastructure
 
 ---
